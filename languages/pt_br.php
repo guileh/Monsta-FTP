@@ -1,8 +1,9 @@
 <?php
 
 // Language: Português (BR)
-// Author: Candiba.net
-// Last Updated: 11/08/2013
+// Author: Guilherme HD
+// Company: candiba.net
+// Last Updated: 09/13/2015
 
 $file_lang_name = "Português (BR)";
 $file_lang_default = 0; // 1 for default, 0 for not
@@ -11,12 +12,12 @@ $lang_title_ended = "Sessão Encerrada";
 $lang_title_errors = "Ocorreram Erros";
 
 $lang_session_expired = "Sua sessão expirou";
-$lang_ip_conflict = "Seu endereço de IP conflita com sessão IP";
+$lang_ip_conflict = "Seu endereço de IP conflita com o IP de sessão";
 
 $lang_btn_login = "Login";
 $lang_ftp_host = "Servidor FTP";
 $lang_port = "Porta";
-$lang_passive_mode = "Modo passivo (default)";
+$lang_passive_mode = "Modo passivo (padrão)";
 $lang_username = "Usuário";
 $lang_password = "Senha";
 $lang_ftp_ssl = "Conectar com SSL (Se Disponível)";
@@ -105,7 +106,7 @@ $lang_file_size_error = "O tamanho do arquivo excede o limite permitido";
 $lang_file_size_copy_error = "O tamanho de [file] excede o limite permitido";
 
 $lang_folder_cant_chmod = "Não é possível executar chmod [perms] [folder]";
-$lang_file_cant_chmod = "Não é possível executar chmod [perms] [file}";
+$lang_file_cant_chmod = "Não é possível executar chmod [perms] [file]";
 $lang_chmod_max_777 = "O Chmod não pode ser maior que 777";
 $lang_chmod_owner = "Permissões do proprietário";
 $lang_chmod_group = "Permissões do grupo";
