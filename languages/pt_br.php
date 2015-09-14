@@ -1,11 +1,10 @@
 <?php
 
 // Language: Português (BR)
-// Author: Guilherme HD
-// Company: candiba.net
+// Author: Guilherme HD (website: candiba.net)
 // Last Updated: 09/13/2015
 
-$file_lang_name = "Português (BR)";
+$file_lang_name = "Português Brasileiro";
 $file_lang_default = 0; // 1 for default, 0 for not
 
 $lang_title_ended = "Sessão Encerrada";
@@ -42,7 +41,7 @@ $lang_table_size = "Tamanho";
 $lang_table_date = "Data";
 $lang_table_time = "Hora";
 $lang_table_user = "Usuário";
-$lang_table_group = "Groupo";
+$lang_table_group = "Grupo";
 $lang_table_perms = "Permissões";
 
 $lang_size_b = "B";
@@ -67,13 +66,13 @@ $lang_btn_new_folder = "Nova Pasta";
 $lang_btn_new_file = "Novo Arquivo";
 $lang_btn_upload_file = "Enviar Arquivo";
 $lang_btn_upload_files = "Enviar Arquivos";
-$lang_btn_upload_repeat = "Repetir Upload";
+$lang_btn_upload_repeat = "Repetir envio";
 $lang_btn_upload_folder = "Enviar Pasta";
 
 $lang_info_host = "Servidor";
 $lang_info_user = "Usuário";
 $lang_info_upload_limit = "Limite de Upload";
-$lang_info_drag_drop = "Drag & Drop";
+$lang_info_drag_drop = "Arrastar e Soltar";
 
 $lang_xfer_file = "Arquivo";
 $lang_xfer_size = "Tamanho";
