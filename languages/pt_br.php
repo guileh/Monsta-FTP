@@ -73,7 +73,7 @@ $lang_btn_upload_folder = "Enviar Pasta";
 $lang_info_host = "Servidor";
 $lang_info_user = "Usuário";
 $lang_info_upload_limit = "Limite de Upload";
-$lang_info_drag_drop = "Drag & Drop";
+$lang_info_drag_drop = "Pegar & Soltar";
 
 $lang_xfer_file = "Arquivo";
 $lang_xfer_size = "Tamanho";
